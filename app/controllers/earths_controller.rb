@@ -1,4 +1,4 @@
-class EarthController < ApplicationController
+class EarthsController < ApplicationController
   def bull
     @horoscope = "Recent spiritual breakthroughs might have you feeling both exhilarated and downcast, Taurus. Your sensitive side tells you that this is a definite step forward on your spiritual path, but the logical side might cause you to doubt its reality. Take comfort in the fact that reality is relative and that what you're sensing is at least valid for you. Then keep moving ahead."
 
